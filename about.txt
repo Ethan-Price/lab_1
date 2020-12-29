@@ -1,0 +1,16 @@
+Use your knowledge of the git command line tool to create a new branch with your name and edit this file to answer
+the questions below, so we can get to know each other!
+
+What's your name?
+
+
+What's your favorite game?
+
+
+Why did you want to take this class?
+
+
+What's one thing you really want to learn?
+
+
+What's something only people who know you really well know about you?
