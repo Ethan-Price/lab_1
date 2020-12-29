@@ -2,15 +2,22 @@ Use your knowledge of the git command line tool to create a new branch with your
 the questions below, so we can get to know each other!
 
 What's your name?
-
+My name is Luke!
 
 What's your favorite game?
-
+I love The Elder Scrolls IV: Oblivion. The feeling I got when I first escaped the prison and saw this huge
+fantasy world opening up before me — and the understanding that I could go ANYWHERE — is one of the most
+amazing feelings I've ever gotten from a game.
 
 Why did you want to take this class?
-
+Well, I'm teaching it! I've wanted to give back to the coding community in the form of teaching
+ever since I attended a coding bootcamp and got an amazing technical education from
+incredible teachers.
 
 What's one thing you really want to learn?
-
+I'm hoping to learn a lot about the nuts and bolts of teaching — and about each of you. I want
+to know how you learn as individuals and how I can help you get the most out of this course.
 
 What's something only people who know you really well know about you?
+When I was a kid, I was convinced my parents found me in the yard in a spaceship,
+like Superman.
