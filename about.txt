@@ -2,15 +2,16 @@ Use your knowledge of the git command line tool to create a new branch with your
 the questions below, so we can get to know each other!
 
 What's your name?
-
+Luke
 
 What's your favorite game and why?
-
+The Elder Scrolls: Oblivion. The feeling you get when you exit the sewers and see the whole world is miraculous.
 
 Why did you want to take this class?
-
+I wanted to learn how to teach people how to code.
 
 What's one thing you really want to learn?
-
+How to make Gen-Zers laugh
 
 What's something only people who know you really well know about you?
+I have a baby niece named Shoshanna.
